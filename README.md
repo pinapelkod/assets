@@ -1,2 +1,2 @@
-# codepen
-Resources for codepen.io
+# Assets
+Assets for codepen.io
